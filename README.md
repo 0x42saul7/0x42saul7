@@ -1,3 +1,3 @@
 - 👋 Hi, I’m 0x42saul7
 - 👀 I’m interested in Computer programming
-- 🌱 I’m currently learning Shell, C, CTF
+- 🌱 I’m currently learning Shell, C, Python, CTF
