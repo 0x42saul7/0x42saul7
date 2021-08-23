@@ -4,4 +4,4 @@
 
 -----
 
-[![jmartin's 42 stats](https://badge42.herokuapp.com/api/stats/jmartin)](https://github.com/JaeSeoKim/badge42) [![MarJC5's github stats](https://github-readme-stats.vercel.app/api?username=MarJC5&theme=vue-dark&show_icons=true)](https://github.com/MarJC5)
+[![jmartin's 42 stats](https://badge42.herokuapp.com/api/stats/jmartin)](https://github.com/JaeSeoKim/badge42) [![0x42saul7's github stats](https://github-readme-stats.vercel.app/api?username=0x42saul7&theme=vue-dark&show_icons=true)](https://github.com/0x42saul7)
